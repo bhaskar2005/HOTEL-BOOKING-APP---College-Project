@@ -83,7 +83,7 @@ Follow these steps to run the project locally on your machine.
 
 ### 2. Environment Setup
 
-1. Navigate to the `backend/` folder.
+1. Navigate to the `Backend/` folder.
 2. Create a file named exactly `.env`.
 3. Add your local MySQL credentials to the `.env` file:
 
@@ -96,7 +96,7 @@ DB_NAME=HotelBookingDB
 
 ### 3. Backend Setup (FastAPI)
 
-1. Open a terminal in the `backend/` folder.
+1. Open a terminal in the `Backend/` folder.
 2. Install the required Python packages:
 
 ```bash
